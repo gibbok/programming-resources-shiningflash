@@ -23,7 +23,7 @@ A great collection of the best FREE programming books covering computer science,
 - 🚀 **[Think Python](https://greenteapress.com/thinkpython2/thinkpython2.pdf)** – A **beginner-friendly** Python programming book.
 
 ### TypeScript
-- 📘 **[The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/)** – Un libro TypeScript gratuito e open source, dai fondamenti ai concetti avanzati.
+- 📘 **[The Concise TypeScript Book](https://gibbok.github.io/typescript-book/)** – A free and open-source TypeScript book, covering everything from fundamentals to advanced concepts.
 
 ---
 
