@@ -22,6 +22,9 @@ A great collection of the best FREE programming books covering computer science,
 - 🏆 **[The Algorithm Design Manual](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)** – Learn **real-world** algorithms.
 - 🚀 **[Think Python](https://greenteapress.com/thinkpython2/thinkpython2.pdf)** – A **beginner-friendly** Python programming book.
 
+### TypeScript
+- 📘 **[The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/)** – Un libro TypeScript gratuito e open source, dai fondamenti ai concetti avanzati.
+
 ---
 
 ## 🏗 **Backend Development – Essential Books**
